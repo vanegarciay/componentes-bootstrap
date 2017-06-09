@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel {
+    width: 100%;
+}
+
+.navbar-default {
+    margin: 0;
+}
+
+.nav-default .nav-collapse, .nav-default .nav-form {
+    border-color: white;
+}
+
+.tour {
+    padding: 50px;
+}
+
+h2 {
+    padding: 20px;
+}
+
+.testomonios {
+    padding: 80px;
+}
+
+.contacto {
+    background-color: #fa8072;
+}
+
+.contacto h2 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+.fa {
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+.fa:hover {
+    color: #fa8072;
+}
+
+form {
+    padding: 60px;
+}
+
+footer {
+    padding: 20px;
+    background: #f8f8f8;
+}
